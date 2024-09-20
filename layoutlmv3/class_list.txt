@@ -1,0 +1,1 @@
+doc_number, doc_date, supplier_name, supplier_phone, receiver_tax_id

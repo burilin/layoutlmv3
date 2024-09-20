@@ -1,0 +1,25 @@
+#Common debug folder
+# Editors
+.idea
+# keep the VS Code debug launch configuration
+# .vscode
+**/__pycache__
+**/runs
+.lprof
+.vs
+.pytest_cache
+
+# Enviroments
+.env-non-dev
+#.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+src/.env
+test/
+.test
+test
+.ipynb_chechkpoints/
